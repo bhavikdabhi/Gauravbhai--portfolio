@@ -172,7 +172,7 @@
 
 :root{
    --bg-color:rgb(240, 83, 56);
-   --bg-color2:linear-gradient(98deg,#fff 15%,rgb(241, 230, 210) 85%);
+   --bg-color2:linear-gradient(98deg,#fff 10%,rgb(241, 230, 210) 90%);
     --gradient-white-bg:linear-gradient(0deg,#fff 0%,rgb(240, 232, 217) 51%,rgb(236, 223, 198) 100%);
     --gradient-color-bg:linear-gradient(180deg,rgb(238, 205, 134) 0%,
                                                 rgb(227, 145, 131)51%,
@@ -1154,7 +1154,7 @@ footer{
     padding: 2rem 0;
     border-top: 2px solid #ccbcbc;
 }
-footer label{
+footer a{
     color: var(--socialMedia-color);
 }
 
